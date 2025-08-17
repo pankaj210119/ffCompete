@@ -13,16 +13,16 @@ as we will be the first players to do this specifically for the general audeince
 
 # Company support
 
-<p> After talking with the company if they collaborate we can make them partner and do some changes to make authentication easy .
-   </p>
+<p> we will contact the comapany andif the company  collaborates and become partner then we can increase user authentication </p>
 
 # joining fee strucure
- for cs match
+ 1.for cs match we will charge 30%  rest is of the winner
+ 2. for br match 25% will be charged to 30% will be charged 
+ 3. user can withdraw with the minimum amount of 100rs
+ 4.maximum amount depositable will be less than 20000rs.
+ 5. upi cards will be an option for adding and depositing money
 
 
-
-
-
-# after plans
+# after_plans 
 
 if our platform becomes a success we will collaborate with more online gaming companies or we will include more games tournaments .
